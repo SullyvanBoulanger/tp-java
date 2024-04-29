@@ -20,6 +20,8 @@ public class DeclarationApp {
 		
 		System.out.println(randomString);
 		
+		int a = 047;
+		System.out.println(a);	
 	}
 
 }
